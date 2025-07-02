@@ -1,6 +1,6 @@
 title: "Gunangad's Portfolio"
 description: "Software Engineer | Backend Developer | Problem Solver"
-baseurl: ""
+baseurl: "/MyWebsite"
 url: "https://angad11121.github.io"
 theme: minima
 plugins:
