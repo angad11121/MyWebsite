@@ -2,7 +2,7 @@ title: "Gunangad's Portfolio"
 description: "Software Engineer | Backend Developer | Problem Solver"
 baseurl: "/MyWebsite"
 url: "https://angad11121.github.io"
-remote_theme: pages-themes/midnight@v0.2.0
+theme: jekyll-theme-midnight
 plugins:
   - jekyll-remote-theme
   - jekyll-feed
