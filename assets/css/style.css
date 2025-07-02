@@ -1,0 +1,19 @@
+body {
+  font-family: Arial, sans-serif;
+  max-width: 900px;
+  margin: auto;
+  padding: 2rem;
+  background: #fafafa;
+  color: #333;
+}
+header nav a {
+  margin: 0 10px;
+  text-decoration: none;
+  color: #444;
+}
+footer {
+  margin-top: 2rem;
+  text-align: center;
+  font-size: 0.9em;
+  color: #999;
+}

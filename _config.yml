@@ -1,0 +1,9 @@
+title: "Gunangad's Portfolio"
+description: "Software Engineer | Backend Developer | Problem Solver"
+baseurl: ""
+url: "https://angad11121.github.io"
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+markdown: kramdown
